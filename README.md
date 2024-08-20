@@ -63,8 +63,8 @@ React Native adalah framework open-source yang dikembangkan oleh Facebook untuk 
 
 |    Branch Name     |                                      Branch Link                                                                    |
 | :----------------: | :-----------------------------------------------------------------------------------------------------------------: |
-| Mobile Development | [MD Branch](https://github.com/wafiqmuhaz/NewsApps)                                                              |
-
+| Mobile Development | [MD Branch](https://github.com/wafiqmuhaz/NewsApps)                                                                 |
+| Api News           | [News Api](https://newsapi.org/)                                                                 |
 
 ## UI/UX Design
 
