@@ -89,7 +89,3 @@ This is a NEWS App built using React Native. You can read the trending NEWS or i
 - Technology
 - Sports
 
-### Screens
-
-| ![](assets/Screenshots(1).jpeg) | ![](assets/Screenshots(2).jpeg) | ![](assets/Screenshots(3).jpeg) |
-| :-------------: | :-------------: | :-------------:  |
