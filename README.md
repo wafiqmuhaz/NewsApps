@@ -41,13 +41,6 @@ NewsApps/
 ```
 
 
-## screenshoot 1
-
-|  |  |  | 
-| --------------- | --------------- | --------------- | 
-| ![](https://github.com/wafiqmuhaz/NewsApps/blob/main/assets/1na.jpeg)   | ![](https://github.com/wafiqmuhaz/NewsApps/blob/main/assets/2na.jpeg)   | ![](https://github.com/wafiqmuhaz/NewsApps/blob/main/assets/3na.jpeg)  | 
-| --------------- | --------------- | --------------- | 
-
 
 ## System Architecture
 |    ![SystemArchitecture](https://reactnative.dev/img/header_logo.svg)     | 
